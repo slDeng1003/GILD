@@ -1,6 +1,6 @@
 # Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data
 
-Official code for *Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data, AAAI 2025 (under review)*
+Official code for *Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data, AAAI 2025 (accept)*
 
 GILD is intended for three  vanilla off-policy RL methods, which are DDPG, TD3 and SAC.
 
